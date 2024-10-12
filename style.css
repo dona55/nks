@@ -1,0 +1,72 @@
+
+* {background-image: url(obrázky/Delegate.jpg);}
+
+div.nadpisy {text-align:center ;}
+
+div.ramecky{text-align: center;}
+
+a.tlacitko-uvod {
+  padding: .5em;  background: rgba(117, 204, 204, 0.722)
+ ; border:1px solid #000000; color: black; cursor: crosshair; text-decoration: none; border-radius: 10px}
+  a.tlacitko-uvod:hover {background: rgb(148, 190, 148)}
+  a.tlacitko-uvod:active {position: relative; top: 1px; left: 1px}
+  
+  a.tlacitko-o-kapele {
+    padding: .5em;  background: rgba(117, 204, 204, 0.722)
+    ; border:1px solid #000000; color: black; cursor: crosshair; text-decoration: none; border-radius: 10px}
+    a.tlacitko-o-kapele:hover {background: rgb(148, 190, 148)}
+  a.tlacitko-o-kapele:active {position: relative; top: 1px; left: 1px}
+
+  a.tlacitko-koncerty {
+    padding: .5em; background: rgba(117, 204, 204, 0.722); border:1px solid #000000; color: black; cursor: crosshair; text-decoration: none; border-radius: 10px}
+    a.tlacitko-koncerty:hover {background: rgb(148, 190, 148)}
+  a.tlacitko-koncerty:active {position: relative; top: 1px; left: 1px}
+
+  a.tlacitko-kontakt {
+    padding: .5em; background: rgba(117, 204, 204, 0.722); border:1px solid #000000; color: black; cursor: crosshair; text-decoration: none; border-radius: 10px}
+    a.tlacitko-kontakt:hover {background: rgb(148, 190, 148)}
+  a.tlacitko-kontakt:active {position: relative; top: 1px; left: 1px}
+
+  p.odkazy {width: 1287px;
+    width: 1341px;
+    height: 89px;
+    padding: 0px 77px;
+    box-sizing: content-box;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+    display: flex;
+    font-family: Metropolis, Metropolis-Fallback, Apple Color Emoji, Noto Color Emoji, sans-serif;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px 0px 0px -10px;
+    /*
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    align-items: center;
+    */
+  
+ }
+ h1{
+  color:black
+ }
+ b{
+  text-align: start;
+  width: 1400px;
+    width: 1381px;
+    height: 89px;
+    padding: 0px 77px;
+    box-sizing: content-box;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+    display: flex;
+    font-family: Metropolis, Metropolis-Fallback, Apple Color Emoji, Noto Color Emoji, sans-serif;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px 0px 0px -10px;
+ }
+  
+  
+
+
